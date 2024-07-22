@@ -27,3 +27,6 @@
   const analytics = getAnalytics(app);
 </script>
 ```
+
+>## `Web configuration`
+>[![image](https://github.com/user-attachments/assets/65eecfbd-49f5-4d84-a81d-2351a1165955)](https://console.firebase.google.com/project/fir-push-notification-85613/settings/cloudmessaging/web:M2MxY2RmNjgtNzBkMS00MmI0LWI2MjctYzRmYmM4MWFmN2Y4)
