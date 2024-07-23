@@ -1,5 +1,5 @@
 ># `Compose notification`
->![image](https://github.com/user-attachments/assets/062c75ff-2941-4515-9d2b-84547767687a)
+>![image](https://github.com/user-attachments/assets/2287e309-ee31-4e41-ae88-9c6ddb1a6b63)
 
 ```html
 
