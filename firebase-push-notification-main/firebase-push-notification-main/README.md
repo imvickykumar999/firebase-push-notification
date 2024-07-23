@@ -1,1 +1,5 @@
-![image](https://github.com/user-attachments/assets/64aa3775-ef52-4eaf-b3de-fd097b7474b3)
+># `Message Sent`
+>![image](https://github.com/user-attachments/assets/f6b4bdbd-235d-48aa-9562-67009585dca4)
+>
+># `Message Received`
+>![image](https://github.com/user-attachments/assets/892767b5-9752-4003-9e81-5ad7a1218776)
